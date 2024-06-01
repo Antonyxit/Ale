@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Danielbot01/monovan-bot-.git",
+  "homepage": "https://github.com/Antonyxit/Ale.git",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Danielbot01/monovan-bot-.git"
+    "url": "https://github.com/Antonyxit/Ale.git"
   },
   "bugs": {
-    "url": "https://github.com/Danielbot01/monovan-bot-.git/issues"
+    "url": "https://github.com/Antonyxit/Ale.git/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
