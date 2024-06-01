@@ -25,8 +25,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` _*< INFO - ESTADO />*_
 
- ▢ *Prop.:* Monovan 
- ▢ *WA:* +527299350963
+ ▢ *Prop.:* Antonyxt 
+ ▢ *WA:* +5214461018899
 
  ▢ *Ping:* ${rtime}
  ▢ *Uptime:* ${uptime}
@@ -65,13 +65,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/Danielbot01/monovan-bot-.git",
+        mediaUrl: "https://github.com/Antonyxit/Ale.git",
         mediaType: 2,
         previewType: "pdf",
-        title: "Monovan Bot ",
+        title: "Ale Bot ",
         body: "Whatsapp",
         thumbnail: imagen1,
-        sourceUrl: "wa.me/527299350963",
+        sourceUrl: "wa.me/5214461018899",
       },
     },
     caption: info,
