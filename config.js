@@ -12,19 +12,19 @@ global.confirmCode = ""
 
 global.owner = [
   ['5214461281232', '👑 danny - Creador 👑', true],
-  ['17173426658', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
-  ['17173426658']
+  ['521844232550', '𝐏𝐑𝐎 𝐁𝐎𝐓 - Collaborator 2 💫', true],
+  ['521844232550']
 ];
 
-global.suittag = ['17173426658'];
-global.prems = ['17173426658'];
+global.suittag = ['521844232550'];
+global.prems = ['521844232550'];
 
 global.packname = '𝐒𝐓𝐈𝐂𝐊𝐄𝐑';
-global.author = '𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓';
-global.wm = '𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓';
-global.titulowm = '𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓';
-global.titulowm2 = `𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓`
-global.igfg = '𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓';
+global.author = '𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓';
+global.wm = '𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓';
+global.titulowm = '𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓';
+global.titulowm2 = `𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓`
+global.igfg = '𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -49,16 +49,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓`;
-global.gt = '𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓';
-global.mysticbot = '𝐂𝐄𝐋𝐎𝐒𝐀 𝐁𝐎𝐓';
+global.wm2 = `${dia} ${fecha}\n𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓`;
+global.gt = '𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓';
+global.mysticbot = '𝐀𝐋𝐄𝐒𝐇𝐎𝐏 𝐁𝐎𝐓';
 global.channel = '';
 global.md = '';
 global.mysticbot = '';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '17173426658';
+global.nomorown = '521844232550';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
